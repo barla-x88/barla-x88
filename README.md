@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-👀 I’m interested in Web development.<br>
-🌱 I’m currently learning MYSQL, Git, JavaScript and PHP.
+🔥️ I’m interested in Web development.<br>
+🔥️ I’m currently learning MYSQL, Git, JavaScript and PHP.
 </p>
 <br>
 
