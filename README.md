@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-🔥️ I’m interested in Web development.<br>
-🔥️ I’m currently learning MYSQL, Git, JavaScript and PHP.
+◉ I’m interested in Web development.<br>
+◉ I’m currently learning MYSQL, Git, JavaScript and PHP.
 </p>
 <br>
 
@@ -17,6 +17,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" width="40px"//>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px"/>
