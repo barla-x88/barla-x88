@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Ankit Barla</h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/barla-x88/barla-x88/d83febea01d8c3033e45799912b077e8f48b7b7c/anigif.gif"></p>
+<img src="https://raw.githubusercontent.com/barla-x88/barla-x88/main/anigif.gif"></p>
 <p align="center">
 <b>I love to code and build things. I enjoy the process of building applications and learning new things.</b>
 </p>
