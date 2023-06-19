@@ -3,12 +3,12 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/barla-x88/barla-x88/main/anigif.gif"></p>
 <p align="center">
-<b>I love to code and build things. I enjoy the process of building applications and learning new things.</b>
+<b>I love to code & build stuff and learn new things along the way.</b>
 </p>
 
 <p align="center">
 ◉ I’m interested in Web development.<br>
-◉ I’m currently learning MYSQL, Git, React and PHP.
+◉ I’m currently learning MYSQL, Docker, React and PHP.
 </p>
 <br>
 
