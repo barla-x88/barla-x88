@@ -8,7 +8,7 @@
 
 <p align="center">
 ◉ I’m interested in Web development.<br>
-◉ I’m currently learning NodeJS, Docker and React.
+◉ I’m currently learning NodeJS, Docker, PHP and React.
 </p>
 <br>
 
